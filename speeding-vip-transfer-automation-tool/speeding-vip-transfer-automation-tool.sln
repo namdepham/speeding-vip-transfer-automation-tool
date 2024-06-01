@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speeding-vip-transfer-automation-tool", "speeding-vip-transfer-automation-tool.csproj", "{AAD60071-6026-4554-82AA-8AC4CFFF87F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD60071-6026-4554-82AA-8AC4CFFF87F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD60071-6026-4554-82AA-8AC4CFFF87F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD60071-6026-4554-82AA-8AC4CFFF87F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD60071-6026-4554-82AA-8AC4CFFF87F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52FEB226-4B2D-44FA-8038-39B25C37E127}
+	EndGlobalSection
+EndGlobal
